@@ -4,7 +4,7 @@
 
 Built in one day for [AGI House's Enterprise Deployment Build Day](https://www.agihouse.org/blog/enterprise-deployment-a-technical-primer) (Agent Identity & Permissions track).
 
-**[Watch the demo](https://bouncypitch.github.io/chain-of-custody-secure-hr-agent/)** · **[Pitch deck](https://claude.ai/artifact/1YFva7ai4EoBw7JaBesppv)**
+**[Watch the demo](https://bouncypitch.github.io/secure-hr-agent/)** · **[Pitch deck](https://claude.ai/artifact/1YFva7ai4EoBw7JaBesppv)**
 
 ![Every attempt caught](docs/every-attempt-caught.gif)
 
@@ -65,7 +65,7 @@ Neither the person asking nor the person reading gets to skip the check — and 
 ## Running it locally
 
 ```bash
-git clone https://github.com/bouncypitch/chain-of-custody-secure-hr-agent.git
+git clone https://github.com/bouncypitch/secure-hr-agent.git
 cd chain-of-custody
 npm install
 npm run dev
